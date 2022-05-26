@@ -4,7 +4,7 @@
 
 
 ```
-mvn clean package Donald
+mvn clean package
 and build the instruction .
 ```
 
